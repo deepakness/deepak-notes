@@ -1,7 +1,7 @@
 ---
 title: Whom should you be grateful to?
 date: 2021-01-04
-tags: ['note', 'motivation']
+tags: ['note', 'thoughts']
 ---
 
 Whom should you be grateful to? 🙋‍♂️

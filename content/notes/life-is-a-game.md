@@ -1,7 +1,7 @@
 ---
 title: Life is a game
 date: 2021-01-04
-tags: ['note', 'motivation']
+tags: ['note', 'thoughts']
 ---
 
 Whatever you're doing, think of it as a game. ⚽
