@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: 'Deepak\'s Notes',
     siteDescription: 'Notes about blogging, marketing, business, technology & more...',
     // siteImage: '/banner.png', // main image of the site for metadata
-    // siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://notes.deepakness.com/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
