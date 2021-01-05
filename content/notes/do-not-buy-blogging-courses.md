@@ -1,7 +1,7 @@
 ---
 title: Blogging courses are trash!
 date: 2021-01-04
-tags: ['note', 'blogging']
+tags: ['blogging']
 ---
 
 Most of the blogging and digitalmarketing courses do not teach "how to create content".

@@ -1,7 +1,7 @@
 ---
 title: People are lazy
 date: 2021-01-05
-tags: ['note','thoughts']
+tags: ['thoughts']
 ---
 
 We’re lazy. 😴

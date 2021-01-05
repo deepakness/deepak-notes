@@ -1,7 +1,7 @@
 ---
 title: My Story
 date: 2021-01-04
-tags: ['note', 'personal']
+tags: ['personal']
 ---
 
 I started writing 5 years ago.

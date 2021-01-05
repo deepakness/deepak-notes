@@ -1,7 +1,7 @@
 ---
 title: Publish short notes
 date: 2021-01-05
-tags: ['note', 'writing']
+tags: ['writing']
 ---
 
 It's better to keep publishing all the short/mini notes in a separate section on your website than to wait for the full article to be completed.

@@ -1,7 +1,7 @@
 ---
 title: Electric cars are not scalable
 date: 2021-01-05
-tags: ['note','tech']
+tags: ['tech']
 ---
 
 👉 Electric cars are NOT scalable.

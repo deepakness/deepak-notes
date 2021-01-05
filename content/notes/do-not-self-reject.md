@@ -1,7 +1,7 @@
 ---
 title: Do not self-reject yourself
 date: 2021-01-05
-tags: ['note', 'thoughts']
+tags: ['thoughts']
 ---
 
 No matter what, do not self-reject yourself.

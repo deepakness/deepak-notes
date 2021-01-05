@@ -1,7 +1,7 @@
 ---
 title: Some motivational thoughts
 date: 2021-01-05
-tags: ['note','thoughts']
+tags: ['thoughts']
 ---
 
 Who are you?

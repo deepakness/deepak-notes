@@ -1,7 +1,7 @@
 ---
 title: Professionals vs amateurs
 date: 2021-01-05
-tags: ['note','thoughts']
+tags: ['thoughts']
 ---
 
 👉 Professionals take responsibility. Amateurs blame others.

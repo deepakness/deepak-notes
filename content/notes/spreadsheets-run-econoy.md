@@ -1,7 +1,7 @@
 ---
 title: Spreadsheets run the world
 date: 2021-01-04
-tags: ['note', 'tech']
+tags: ['tech']
 ---
 
 Spreadsheets run the world!!! 🌍

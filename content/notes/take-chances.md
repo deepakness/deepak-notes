@@ -1,7 +1,7 @@
 ---
 title: Take chances
 date: 2021-01-05
-tags: ['note','thoughts']
+tags: ['thoughts']
 ---
 
 ⚔ You have to take chances for your dreams to come true;
