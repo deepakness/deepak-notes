@@ -10,6 +10,6 @@ After researching a bit, I found a way and wrote an [article](https://compile.bl
 
 It explains how to setup automatic regular backup of your entire Notion account with GitLab.
 
-After experimenting a bit, I was able to successfull set up the automation.
+After experimenting a bit, I was able to successfully set up the automation.
 
 And, it's working perfectly. 😍
