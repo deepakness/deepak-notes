@@ -6,9 +6,9 @@ tags: ['tech']
 
 Yesterday, Notion was down for hours and it got me searching for available automated backup options.
 
-After researching a lot, I came through a [Medium article](https://medium.com/@arturburtsev/automated-notion-backups-f6af4edc298d) by Artur Burtsev.
+After researching a bit, I found a way and wrote an [article](https://compile.blog/2021/01/06/automatic-notion-backup/) about it.
 
-It explained how to setup automatic regular backup of your entire Notion account with GitLab.
+It explains how to setup automatic regular backup of your entire Notion account with GitLab.
 
 After experimenting a bit, I was able to successfull set up the automation.
 
