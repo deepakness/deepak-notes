@@ -1,6 +1,6 @@
 ---
 title: Published a new Medium Story
-date: 2021-01-07
+date: 2021-01-08
 tags: ['blogging']
 ---
 
