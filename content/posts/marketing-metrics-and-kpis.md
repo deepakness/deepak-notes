@@ -12,7 +12,7 @@ tags: ['marketing']
     
     - Examples of marketing metrics
 
-        - General marketing metrics
+        - **General marketing metrics**
 
             - brand awareness
             - customer lifetime value
@@ -39,7 +39,7 @@ tags: ['marketing']
 
             - 
 
-        - Website and blogging metrics
+        - **Website and blogging metrics**
 
             - referral traffic
             - organic traffic
@@ -58,7 +58,7 @@ tags: ['marketing']
             - pageviews
             - top pages
         
-        - SEO metrics
+        - **SEO metrics**
 
             - keyword rankings
             - keyword opportunity
@@ -77,7 +77,7 @@ tags: ['marketing']
                 - amount of content pieces that are waiting to be pushed live
             - top viewed posts
 
-        - Social media marketing metrics
+        - **Social media marketing metrics**
             
             - likes
             - comments
@@ -90,7 +90,7 @@ tags: ['marketing']
             - page demographics
             - social sentiment
 
-        - Email marketing metrics
+        - **Email marketing metrics**
 
             - newsletter signups
             - traffic
@@ -103,7 +103,7 @@ tags: ['marketing']
             - response rate
             - unsubscribers
 
-        - PPC metrics
+        - **PPC metrics**
 
             - CPC
             - CTR
@@ -115,7 +115,7 @@ tags: ['marketing']
             - cost per action (CPA)
 
 
-- **What is KPIs (Key Performance Indicators)**
+- ## What is KPIs (Key Performance Indicators)
 
     - A KPI is a key performance indicator that measures how your company is performing at achieving a certain goal or objective.
     - indicates progress towards a particular goal
@@ -142,7 +142,7 @@ tags: ['marketing']
                 - conversions
                 - revenue
     
-    - KPIs to measure ROI
+    - **KPIs to measure ROI**
 
         - cost per visit
         - cost per sale
@@ -154,7 +154,7 @@ tags: ['marketing']
         - cart abandonment rate
         - average order value
         
-    - KPIs to measure lead generation campaigns
+    - **KPIs to measure lead generation campaigns**
 
         - product/service page conversion rate
         - newsletter signup conversion rate
@@ -164,7 +164,7 @@ tags: ['marketing']
         - email open rate
         - email click through rate
         
-    - KPIs to measure intent to purchase
+    - **KPIs to measure intent to purchase**
 
         - branded keyword visits
         - direct visits
@@ -172,7 +172,7 @@ tags: ['marketing']
         - direct email rate
         - call rate
         
-    - KPIs to measure website engagement
+    - **KPIs to measure website engagement**
 
         - 301 redirect rate
         - 301 conversion rate
